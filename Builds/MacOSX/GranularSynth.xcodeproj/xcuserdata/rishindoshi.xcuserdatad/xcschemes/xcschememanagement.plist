@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GranularSynth - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>GranularSynth - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>GranularSynth - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>GranularSynth - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>GranularSynth - VST3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>225F05363FE25C0123BDC89F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4221710A1AB606927D7B2093</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83FE9556FF52CE0100B2765F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D65F3DA5792F7E9A50326899</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB4B2CAD874D8CA9ACCB2C2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
